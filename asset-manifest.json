@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://sachinkenny.github.io/csb-lcmht/static/css/main.f5fa84f5.chunk.css",
+    "main.js": "https://sachinkenny.github.io/csb-lcmht/static/js/main.6a33dbac.chunk.js",
+    "main.js.map": "https://sachinkenny.github.io/csb-lcmht/static/js/main.6a33dbac.chunk.js.map",
+    "runtime-main.js": "https://sachinkenny.github.io/csb-lcmht/static/js/runtime-main.e0c09ef0.js",
+    "runtime-main.js.map": "https://sachinkenny.github.io/csb-lcmht/static/js/runtime-main.e0c09ef0.js.map",
+    "static/js/2.6b56245c.chunk.js": "https://sachinkenny.github.io/csb-lcmht/static/js/2.6b56245c.chunk.js",
+    "static/js/2.6b56245c.chunk.js.map": "https://sachinkenny.github.io/csb-lcmht/static/js/2.6b56245c.chunk.js.map",
+    "index.html": "https://sachinkenny.github.io/csb-lcmht/index.html",
+    "static/css/main.f5fa84f5.chunk.css.map": "https://sachinkenny.github.io/csb-lcmht/static/css/main.f5fa84f5.chunk.css.map",
+    "static/js/2.6b56245c.chunk.js.LICENSE.txt": "https://sachinkenny.github.io/csb-lcmht/static/js/2.6b56245c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e0c09ef0.js",
+    "static/js/2.6b56245c.chunk.js",
+    "static/css/main.f5fa84f5.chunk.css",
+    "static/js/main.6a33dbac.chunk.js"
+  ]
+}
